@@ -125,6 +125,6 @@ public class Main {
         int kristinaImprovedYearlySalary = kristinaImprovedSalary * 12;
         int kristinaDiff = kristinaImprovedYearlySalary - kristinaYearlySalary;
         System.out.println("Кристина теперь получает " + mashaImprovedYearlySalary + " рублей, доход вырос на "
-                + kristinaDiff + " рублей");
+                + kristinaDiff + " рублей ");
     }
 }
